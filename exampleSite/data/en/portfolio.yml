@@ -1,7 +1,7 @@
 ---
 portfolio:
-  enable: false
-  title: Our Works
+  enable: true
+  title: My Works
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
